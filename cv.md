@@ -2,7 +2,7 @@
 # Fomin Maksim
 ## Contacs 
 * mfomin9@gmail.com
-* @samoded1
+* @samoded1 (telegram and discord)
 ## About me
 Highly motivated student in the direction of front-end development. I am currently learning new technologies and frameworks in the web sphere. My goal is to become a highly qualified specialist in my field. I have a great experience in communicating with customers and useful soft skills that will help me a lot in my professional life. 
 ## Technical Skills 
@@ -14,7 +14,7 @@ Highly motivated student in the direction of front-end development. I am current
 * [My github](https://github.com/samoded1 "Github profile")
 * [My codewars](https://www.codewars.com/users/samoded1 "Codewars profile")
 ## Professional expirience 
-* [Barbershop](https://github.com/samoded1/samoded1.github.io "Site link")
+* [Barbershop](https://samoded1.github.io/ "Site link")
 ## Education
 Moscow Witte University, Web and multimedia application developer (Informational Systems) - 2020-2024
 The Rolling Scopes School - 11.2023 - 11.2024
