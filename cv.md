@@ -11,10 +11,10 @@ Highly motivated student in the direction of front-end development. I am current
 * **Tools:** VS Code, Chrome Dev Tools, Guthub. 
 * **Other skills:** Speed reading, blind printing, sociability, copywriting. 
 ## Code examples 
-* [My github] (https://github.com/samoded1 "Github profile")
-* [My codewars] (https://www.codewars.com/users/samoded1 "Codewars profile")
+* [My github](https://github.com/samoded1 "Github profile")
+* [My codewars](https://www.codewars.com/users/samoded1 "Codewars profile")
 ## Professional expirience 
-* [Barbershop] (https://github.com/samoded1/samoded1.github.io "Site link")
+* [Barbershop](https://github.com/samoded1/samoded1.github.io "Site link")
 ## Education
 Moscow Witte University, Web and multimedia application developer (Informational Systems) - 2020-2024
 The Rolling Scopes School - 11.2023 - 11.2024
